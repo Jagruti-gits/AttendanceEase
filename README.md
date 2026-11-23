@@ -108,7 +108,7 @@ Before running the application, ensure that you have:
 - A configured Supabase PostgreSQL database.
 - Git (optional, for cloning the repository).
 
-## 🚀 7. Installation and Execution
+ 7. Installation and Execution
 
 Follow these steps to run the project locally.
 
@@ -152,7 +152,7 @@ The Java Swing application should launch once the database connection is configu
 
 **Note:** The above commands are intended for Windows PowerShell. Ensure that your Supabase database is accessible and the connection details are correctly configured.
 
-## 🗄️ 8. Database Connectivity
+ 8. Database Connectivity
 
 The application uses JDBC (Java Database Connectivity) to communicate with PostgreSQL.
 
@@ -166,7 +166,7 @@ The database connection process involves:
 4. Executing database operations through the management classes.
 5. Handling database-related exceptions.
 
-## 🔐 9. Security Considerations
+9. Security Considerations
 
 - Database passwords are retrieved through environment variables.
 - Sensitive credentials should never be committed to GitHub.
@@ -193,7 +193,7 @@ The project provides a practical approach to understanding desktop application d
 
 ---
 
-## 👩‍💻 Project Information
+->Project Information
 
 | Detail | Information |
 |---|---|
